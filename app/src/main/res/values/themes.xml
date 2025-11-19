@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KRYLOV_IS_09_10112025" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.KRYLOV_IS_09_10112025" parent="Base.Theme.KRYLOV_IS_09_10112025" />
+</resources>
